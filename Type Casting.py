@@ -27,3 +27,4 @@ print(cgpa)
 
 is_student = bool(is_student)
 print(is_student)
+
